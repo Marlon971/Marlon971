@@ -1,4 +1,4 @@
-# Olá, eu sou o Marlon Reis! 👋
+# Opa, eu sou o Marlon Reis! 
 
 ### Desenvolvedor Back-end | Python & MySQL
 
@@ -6,7 +6,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e focado em co
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+###  Tecnologias e Ferramentas
 
 - **Back-end:** ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 - **Banco de Dados:** ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
@@ -14,7 +14,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e focado em co
 
 ---
 
-### 🚀 Projetos em Destaque
+###  Projetos em Destaque
 
 *   **Barbearia Chaves:** Sistema de gestão full-stack desenvolvido com Python e Flask para otimização de agendamentos e controle interno.
 *   **Integração E-commerce:** Automação de back-end e integração de banco de dados para atualização de produtos em loja local.
