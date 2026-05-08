@@ -21,7 +21,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e focado em co
 
 ---
 
-### 📊 Estatísticas (Servidor Alternativo)
+###  Estatísticas (Servidor Alternativo)
 
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Marlon971&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
