@@ -19,7 +19,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e focado em co
 
 **Integração E-commerce: Automação de back-end e integração de banco de dados para atualização de produtos em loja local.
 
-Desenvolvimento de IA Personalizada: Implementação de modelos de inteligência artificial integrados a ecossistemas Python para automação de processos e análise de dados.
+**Desenvolvimento de IA Personalizada: Implementação de modelos de inteligência artificial integrados a ecossistemas Python para automação de processos e análise de dados.
+
 =====
 
 ###  Estatísticas (Servidor Alternativo)
