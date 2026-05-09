@@ -4,7 +4,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e focado em construir soluções eficientes no lado do servidor. Tenho experiência prática na criação de sistemas de gestão e automação de processos para e-commerce local.
 
----
+====
 
 ###  Tecnologias e Ferramentas
 
@@ -12,14 +12,15 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e focado em co
 - **Banco de Dados:** ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
 - **Infra:** Git, GitHub, Manutenção de Hardware e Performance
 
----
+====
 
 ###  Projetos em Destaque
+**Barbearia Chaves: Sistema de gestão full-stack desenvolvido com Python e Flask para otimização de agendamentos e controle interno.
 
-*   **Barbearia Chaves:** Sistema de gestão full-stack desenvolvido com Python e Flask para otimização de agendamentos e controle interno.
-*   **Integração E-commerce:** Automação de back-end e integração de banco de dados para atualização de produtos em loja local.
+**Integração E-commerce: Automação de back-end e integração de banco de dados para atualização de produtos em loja local.
 
----
+**Desenvolvimento de IA Personalizada: Implementação de modelos de inteligência artificial integrados a ecossistemas Python para automação de processos e análise de dados.
+=====
 
 ###  Estatísticas (Servidor Alternativo)
 
